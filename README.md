@@ -1,2 +1,2 @@
-# ck-parts-pretty
+# ck-parts.pretty
 Parts used for CannonKeys PCBs
