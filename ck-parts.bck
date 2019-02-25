@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAV70
+D High-speed switching diodes, dual common anode/common cathode, SOT-23
+K Diode
+F https://www.diodes.com/assets/Datasheets/ds12006.pdf
+$ENDCMP
+#
+$CMP D_Tiny
+K Diode
+$ENDCMP
+#
+#End Doc Library
